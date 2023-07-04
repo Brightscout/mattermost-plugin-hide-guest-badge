@@ -9,7 +9,6 @@ export default class Plugin {
     public async initialize(registry: PluginRegistry) {
         // @see https://developers.mattermost.com/extend/plugins/webapp/reference/
         registry.registerRootComponent(<></>);
-
     }
 }
 
