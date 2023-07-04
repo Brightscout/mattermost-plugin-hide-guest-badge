@@ -1,6 +1,6 @@
-# Mattermost Hide Guest Badge Plugin
+# Mattermost plugin to hide guest badges
 ## Table of Contents
-- [Mattermost Hide Guest Badge Plugin](#mattermost-hide-guest-badge-plugin)
+- [Mattermost plugin to hide guest badges](#mattermost-plugin-to-hide-guest-badges)
   - [Table of Contents](#table-of-contents)
   - [License](#license)
   - [Overview](#overview)
@@ -15,15 +15,15 @@
 
 ## License
 
-See the [LICENSE](./LICENSE) file for license rights and limitations.
+See the [LICENSE](../LICENSE) file for license rights and limitations.
 
 ## Overview
 
-This plugin hides the GUEST badges from the UI which are displayed as default for guest users in a channel, DM, group and auto-suggestion list for mention. For a stable production release, please download the latest version from the [Github Releases](https://github.com/Brightscout/mattermost-plugin-hide-guest-badge/releases) and follow the instructions to [install](#installation) the plugin.
+This plugin hides the `GUEST` badges from the UI which are displayed as default for the guest users in a channel, DM, group, and auto-suggestion list for mention. For a stable production release, please download the latest version from the [Github Releases](https://github.com/Brightscout/mattermost-plugin-hide-guest-badge/releases) and follow the instructions to [install](#installation) the plugin.
 
 ## Features
 
-This plugin hides the GUEST badges from the UI which are displayed as default for guest users in a channel, DM, group and auto-suggestion list for mention.
+This plugin hides the `GUEST` badges from the UI which are displayed as default for the guest users in a channel, DM, group, and auto-suggestion list for mention.
 
 ![image](https://github.com/Brightscout/mattermost-plugin-hide-guest-badge/assets/72438220/7de710d4-5195-4ad3-be69-ba792cde8c8c)
 
