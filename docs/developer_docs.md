@@ -6,9 +6,8 @@
   - [Overview](#overview)
   - [Features](#features)
   - [Installation](#installation)
-  - [Setup](#setup)
   - [Development](#development)
-    - [Setup](#setup-1)
+    - [Setup](#setup)
     - [Building the plugin](#building-the-plugin)
     - [Deploying with Local Mode](#deploying-with-local-mode)
     - [Deploying with credentials](#deploying-with-credentials)
@@ -19,11 +18,11 @@ See the [LICENSE](../LICENSE) file for license rights and limitations.
 
 ## Overview
 
-This plugin hides the `GUEST` badges from the UI, which are displayed as default for the guest users in a channel, DM, GM, and auto-suggestion list for mention. For a stable production release, please download the latest version from the [Github Releases](https://github.com/Brightscout/mattermost-plugin-hide-guest-badge/releases) and follow the instructions to [install](#installation) the plugin.
+This plugin hides the `GUEST` badges from the UI, which are displayed as default for the guest users in a channel, DM(Direct Message), GM(Group Message), and auto-suggestion list for mention. For a stable production release, please download the latest version from the [Github Releases](https://github.com/Brightscout/mattermost-plugin-hide-guest-badge/releases) and follow the instructions to [install](#installation) the plugin.
 
 ## Features
 
-This plugin hides the `GUEST` badges from the UI, which are displayed as default for the guest users in a channel, DM, GM, and auto-suggestion list for mention.
+This plugin hides the `GUEST` badges from the UI, which are displayed as default for the guest users in a channel, DM(Direct Message), GM(Group Message), and auto-suggestion list for mention.
 
 ![image](https://github.com/Brightscout/mattermost-plugin-hide-guest-badge/assets/72438220/7de710d4-5195-4ad3-be69-ba792cde8c8c)
 
@@ -35,9 +34,6 @@ This plugin hides the `GUEST` badges from the UI, which are displayed as default
 2. Upload this file to the Mattermost **System Console > Plugins > Management** page to install the plugin. To learn more about how to upload a plugin, [see the documentation](https://docs.mattermost.com/administration/plugins.html#plugin-uploads).
 3. Enable the plugin from **System Console > Plugins > Hide Guest Badge**.
 
-## Setup
-
-  - [Developer setup](./developer_docs.md)
 
 ## Development
 
