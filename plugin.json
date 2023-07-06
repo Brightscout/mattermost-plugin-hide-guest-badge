@@ -1,7 +1,7 @@
 {
     "id": "mattermost-plugin-hide-guest-badge",
     "name": "Hide Guest Badge",
-    "description": "Mattermost plugin to hide the guest badges from the UI, which are displayed as default for the guest users in a channel, DM(Direct Message), GM(Group Message), user profile popover, and auto-suggestion list for mention.",
+    "description": "Mattermost plugin to hide the guest badge from the UI, which is displayed as default for the guest users in a channel, the badge is shown in DMs(Direct Messages), GMs(Group Messages), user profile popover, and auto-suggestion list for mentions.",
     "icon_path": "public/assets/starter-template-icon.svg",
     "version": "0.0.1",
     "min_server_version": "7.8.2",
