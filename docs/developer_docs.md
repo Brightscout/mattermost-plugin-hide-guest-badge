@@ -41,8 +41,7 @@ This plugin hides the `GUEST` badges from the UI, which are displayed as default
 
 Make sure you have the following components installed:  
 
-- Go - v1.16 - [Getting Started](https://golang.org/doc/install)
-    > **Note:** If you have installed Go to a custom location, make sure the `$GOROOT` variable is set properly. Refer to [Installing to a custom location](https://golang.org/doc/install#install).
+- Node - v14.18.0
 - Make
 
 ### Building the plugin
