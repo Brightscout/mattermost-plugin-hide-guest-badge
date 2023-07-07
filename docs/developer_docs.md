@@ -22,9 +22,9 @@ This plugin hides the `GUEST` badge from the UI, which is displayed as default f
 
 This plugin hides the `GUEST` badge from the UI, which is displayed as default for the guest users in a channel, the badge is shown in DMs(Direct Messages), GMs(Group Messages), user profile popover, and auto-suggestion list for mentions.
 
-![image](https://github.com/Brightscout/mattermost-plugin-hide-guest-badge/assets/72438220/4d98b683-268f-4695-abb9-4abb98468293)
+![image](https://github.com/Brightscout/mattermost-plugin-hide-guest-badge/assets/72438220/7711325d-9e34-4ebb-ad64-a4d271d90450)
 
-![image](https://github.com/Brightscout/mattermost-plugin-hide-guest-badge/assets/72438220/b4581a0c-1b83-430f-9da6-e9217d0b700e)
+![image](https://github.com/Brightscout/mattermost-plugin-hide-guest-badge/assets/72438220/688a67a7-5d96-430b-a3bc-dc6023520b17)
 
 ## Installation
 
