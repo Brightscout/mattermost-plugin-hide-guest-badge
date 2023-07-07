@@ -20,7 +20,7 @@ This plugin hides the `GUEST` badge from the UI, which is displayed as default f
 
 ![image](https://github.com/Brightscout/mattermost-plugin-hide-guest-badge/assets/72438220/4d98b683-268f-4695-abb9-4abb98468293)
 
-![image](https://github.com/Brightscout/mattermost-plugin-hide-guest-badge/assets/72438220/98c95e75-5a56-4dc5-aed6-d3f429df5355)
+![image](https://github.com/Brightscout/mattermost-plugin-hide-guest-badge/assets/72438220/cc4ed693-30fb-42ea-93ca-525806cc4450)
 
 ## Installation
 
